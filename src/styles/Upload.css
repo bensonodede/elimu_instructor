@@ -1,0 +1,12 @@
+.Upload-Container {
+  display: flex;
+  background-color: #c2c2c2;
+  padding-top: 15%;
+  padding-bottom: 15%;
+  width: 70%;
+  justify-content: center;
+}
+.Page-Container {
+  display: flex;
+  justify-content: center;
+}
